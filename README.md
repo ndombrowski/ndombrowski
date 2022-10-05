@@ -31,6 +31,5 @@ I am self-taught in R and Python and a fan of open-access work, so a goal of min
  
 #### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ndombrowski&amp;show_icons=true" alt="GitHub Stats"></p>
-
+![Nina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndombrowski&show_icons=true&theme=buefy)
 
