@@ -6,7 +6,13 @@ I am [Nina Dombrowski](https://ndombrowski.github.io), a postdoctoral researcher
 
 I am using computational approaches to investigate mirobial communities in different habitats, such as the soil, hydrothermal vents or the open ocean. I am currently studying extremely small microbes, called DPANN archaea, to understand more about their metabolism and how the interact with other organisms.
 
-I am self-taught in R and Python and a fan of open-access work, so a goal of mine is to and and to put some of the courses I gave on github for others to skim through.
+I am self-taught in R and Python and a fan of open-access work, so a goal of mine is to put some of the courses I gave on github for others to skim through. This is very work in progress but in case you are interested, here are some examples:
+
+- [AWK introduction](https://ndombrowski.github.io/AWK_tutorial/) 
+- [An R cookbook](https://ndombrowski.github.io/R_cookbook) with the example data found in [here](https://github.com/ndombrowski/R_cookbook)
+- [How to do phylogenetic analyses](https://ndombrowski.github.io/Phylogeny_tutorial/) with the example data found in [here](https://github.com/ndombrowski/Phylogeny_tutorial)
+
+
 <br>
 
 #### Languages I use
