@@ -4,9 +4,9 @@
 
 I am [Nina Dombrowski](https://ndombrowski.github.io), a postdoctoral researcher at the Royal Netherlands Institute for Sea Research (NIOZ) in the Netherlands.
 
-I am studying what microbes you find in different environments, ranging from the soil, hydrothermal vents and the open ocean.  I am specifically interested in such (so far) unculturable microbes and use computational approaches, such as metagenomics or phylogenomics, as techniques to characterize their genomes.
+I am using computational approaches to investigate mirobial communities in different habitats, such as the soil, hydrothermal vents or the open ocean. I am currently studying extremely small microbes, called DPANN archaea, to understand more about their metabolism and how the interact with other organisms.
 
-I am self-taught in R and Python and and to make this journey easier for others I will put some of the courses I gave here for others to skim through.
+I am self-taught in R and Python and a fan of open-access work, so a goal of mine is to and and to put some of the courses I gave on github for others to skim through.
 <br>
 
 #### Languages I use
