@@ -1,7 +1,5 @@
 ### Welcome 👋
 
-<p>
-
 I am [Nina Dombrowski](https://ndombrowski.github.io), a postdoctoral researcher at the Royal Netherlands Institute for Sea Research (NIOZ) in the Netherlands.
 
 I am using computational approaches to investigate mirobial communities in different habitats, such as the soil, hydrothermal vents or the open ocean. I am currently studying extremely small microbes, called DPANN archaea, to understand more about their metabolism and how the interact with other organisms.
@@ -12,8 +10,6 @@ I am self-taught in R and Python and a fan of open-access work, so a goal of min
 - [An R cookbook](https://ndombrowski.github.io/R_cookbook) with [example files](https://github.com/ndombrowski/R_cookbook)
 - [How to do phylogenetic analyses](https://ndombrowski.github.io/Phylogeny_tutorial/) with [example files](https://github.com/ndombrowski/Phylogeny_tutorial)
 
-
-<br>
 
 #### Languages I use
 
