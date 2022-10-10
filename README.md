@@ -24,7 +24,7 @@ I am self-taught in R and Python and a fan of open-access work, so a goal of min
 #### You can connect with me here:
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/nina-dombrowski-8b6142243/">
+  <a href="https://www.linkedin.com/in/nina-dombrowski-nd01/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/n_dombrowski">
