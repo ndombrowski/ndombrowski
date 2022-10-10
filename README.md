@@ -13,16 +13,25 @@ I am self-taught in R and Python and a fan of open-access work, so a goal of min
 
 #### Languages I use
 
-<img height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" /><img height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<br>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" **alt="Bash" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
+</div>
 
 
 #### You can connect with me here:
 
-<a href="https://twitter.com/n_dombrowski">
-  <img align="left" alt="Nina Dombrowski | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/></a>
-<a href="https://www.linkedin.com/in/nina-dombrowski-8b6142243/">
-  <img align="left" alt="Nina Dombrowski LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a><br>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/nina-dombrowski-8b6142243/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/n_dombrowski">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 
  
 #### GitHub Stats
