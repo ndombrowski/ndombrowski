@@ -2,12 +2,26 @@
 
 I am [Nina Dombrowski](https://ndombrowski.github.io), a postdoctoral researcher at the Royal Netherlands Institute for Sea Research (NIOZ) in the Netherlands.
 
-I am using computational approaches to investigate mirobial communities in different habitats, such as the soil, hydrothermal vents or the open ocean. I am currently studying extremely small microbes, called DPANN archaea, to understand more about their metabolism and how the interact with other organisms.
+I am using computational approaches to investigate mirobial communities in different habitats, such as the soil, hydrothermal vents or the open ocean. I am currently studying extremely small microbes, called DPANN archaea, to understand more about their metabolism and how they interact with other organisms.
 
-I am self-taught in R and Python and a fan of open-access work, so a goal of mine is to put some of the courses I gave on github for others to skim through. This is very work in progress but in case you are interested, here are some examples:
+I am self-taught in R and Python and a fan of open-access work, and therefore you can find multiple courses I gave during my postdoc years here. If you are interested, I recommend looking at the github pages (a link can be found in the readme if the link does not directly go to the HTML page). Feel free to skim through! 
 
-- [AWK introduction](https://ndombrowski.github.io/AWK_tutorial/) with [example files](https://github.com/ndombrowski/AWK_tutorial)
+Please keep mind that this is often work in progress and courses will be updated whenever there is a new opportunity to teach.
+
+**Tutorials for Unix, R and (hopefully soon Python)**
+
+- [Getting started with the command line](https://ndombrowski.github.io/Unix_tutorial/#sed-manipulating-files) including [example files](https://github.com/ndombrowski/Unix_tutorial)
+- [An introduction to AWK](https://ndombrowski.github.io/AWK_tutorial/) with [example files](https://github.com/ndombrowski/AWK_tutorial)
+
 - [An R cookbook](https://ndombrowski.github.io/R_cookbook) with [example files](https://github.com/ndombrowski/R_cookbook)
+- [Data manipulation with dplyr](https://ndombrowski.github.io/Tidyverse_tutorial/)
+- [Data visualization with ggplot2](https://github.com/ndombrowski/Ggplot_tutorial)
+
+**Tutorials useful for biologists**
+
+- [Assembling a metagenome](https://ndombrowski.github.io/Assembly_tutorial/)
+- [Genomic binning](https://ndombrowski.github.io/Binning_tutorial//index.html)
+- [Annotating microbial genomes](https://github.com/ndombrowski/Annotation_workflow)
 - [How to do phylogenetic analyses](https://ndombrowski.github.io/Phylogeny_tutorial/) with [example files](https://github.com/ndombrowski/Phylogeny_tutorial)
 
 
