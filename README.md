@@ -12,7 +12,6 @@ Please keep mind that this is often work in progress and courses will be updated
 
 - [Getting started with the command line](https://ndombrowski.github.io/Unix_tutorial/#sed-manipulating-files) including [example files](https://github.com/ndombrowski/Unix_tutorial)
 - [An introduction to AWK](https://ndombrowski.github.io/AWK_tutorial/) with [example files](https://github.com/ndombrowski/AWK_tutorial)
-
 - [An R cookbook](https://ndombrowski.github.io/R_cookbook) with [example files](https://github.com/ndombrowski/R_cookbook)
 - [Data manipulation with dplyr](https://ndombrowski.github.io/Tidyverse_tutorial/)
 - [Data visualization with ggplot2](https://github.com/ndombrowski/Ggplot_tutorial)
