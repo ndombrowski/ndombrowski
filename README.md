@@ -1,14 +1,10 @@
 ### Welcome 👋
 
-I am [Nina Dombrowski](https://ndombrowski.github.io), a postdoctoral researcher at the Royal Netherlands Institute for Sea Research (NIOZ) in the Netherlands.
+I am [Nina Dombrowski](https://ndombrowski.github.io), a postdoctoral researcher at the Royal Netherlands Institute for Sea Research (NIOZ) in the Netherlands. My research focuses on investigating microbial communities in different habitats, such as the soil or hydrothermal vents, using computational approaches. Currently, I'm studying tiny microorganisms, called DPANN archaea, to understand more about their metabolism and interactions with other organisms.
 
-I am using computational approaches to investigate mirobial communities in different habitats, such as the soil, hydrothermal vents or the open ocean. I am currently studying extremely small microbes, called DPANN archaea, to understand more about their metabolism and how they interact with other organisms.
+I'm a self-taught R and Python programmer and an open-access enthusiast. On my page, you'll find multiple courses that I have taught during my postdoc years. Feel free to browse them on my GitHub page (the link can be found in the README if the link doesn't go directly to the HTML page). Please note that these courses are often works in progress, and I update them whenever I have the opportunity to teach.
 
-I am self-taught in R and Python and a fan of open-access work, and therefore you can find multiple courses I gave during my postdoc years here. If you are interested, I recommend looking at the github pages (a link can be found in the readme if the link does not directly go to the HTML page). Feel free to skim through! 
-
-Please keep mind that this is often work in progress and courses will be updated whenever there is a new opportunity to teach.
-
-**Tutorials for Unix, R and (hopefully soon Python)**
+Here are some general programming tutorials I have created that you might find useful:
 
 - [Getting started with the command line](https://ndombrowski.github.io/Unix_tutorial/#sed-manipulating-files) including [example files](https://github.com/ndombrowski/Unix_tutorial)
 - [An introduction to AWK](https://ndombrowski.github.io/AWK_tutorial/) with [example files](https://github.com/ndombrowski/AWK_tutorial)
@@ -16,7 +12,7 @@ Please keep mind that this is often work in progress and courses will be updated
 - [Data manipulation with dplyr](https://ndombrowski.github.io/Tidyverse_tutorial/)
 - [Data visualization with ggplot2](https://github.com/ndombrowski/Ggplot_tutorial)
 
-**Tutorials useful for biologists**
+For biologists, I also have tutorials on:
 
 - [Assembling a metagenome](https://ndombrowski.github.io/Assembly_tutorial/)
 - [Genomic binning](https://ndombrowski.github.io/Binning_tutorial//index.html)
