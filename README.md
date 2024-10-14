@@ -2,7 +2,7 @@
 
 I am [Nina Dombrowski](https://ndombrowski.github.io), I am a bioinformatician at the Institute for Biodiversity and Ecosystem Dynamics (IBED) at the University of Amsterdam. I am involved in diverse projects that use computational approaches, such as metagenomics and phylogenomics, to understand the role of micro- and macro-organisms. This includes analysing data myself but also involves teaching students how to apply computational approaches on their own data.
 
-I'm a self-taught R and Python programmer and an open-access enthusiast. On my page, you'll find multiple courses that I have taught during my postdoc years. Feel free to browse them on my GitHub page (the link can be found in the README if the link doesn't go directly to the HTML page). Please note that these courses are often works in progress, and I update them whenever I have the opportunity to teach.
+I'm a self-taught R and Python programmer and an open-access enthusiast. On my page, you'll find multiple courses that I have taught during my postdoc years. Feel free to browse them on my [Website](https://ndombrowski.github.io/). Please note that these courses are often works in progress, and I update them whenever I have the opportunity to teach.
 
 Here are some general programming tutorials I have created that you might find useful:
 
