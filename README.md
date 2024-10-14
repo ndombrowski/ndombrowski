@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-I am [Nina Dombrowski](https://ndombrowski.github.io), a postdoctoral researcher at the Royal Netherlands Institute for Sea Research (NIOZ) in the Netherlands. My research focuses on investigating microbial communities in different habitats, such as the soil or hydrothermal vents, using computational approaches. Currently, I'm studying tiny microorganisms, called DPANN archaea, to understand more about their metabolism and interactions with other organisms.
+I am [Nina Dombrowski](https://ndombrowski.github.io), I am a bioinformatician at the Institute for Biodiversity and Ecosystem Dynamics (IBED) at the University of Amsterdam. I am involved in diverse projects that use computational approaches, such as metagenomics and phylogenomics, to understand the role of micro- and macro-organisms. This includes analysing data myself but also involves teaching students how to apply computational approaches on their own data.
 
 I'm a self-taught R and Python programmer and an open-access enthusiast. On my page, you'll find multiple courses that I have taught during my postdoc years. Feel free to browse them on my GitHub page (the link can be found in the README if the link doesn't go directly to the HTML page). Please note that these courses are often works in progress, and I update them whenever I have the opportunity to teach.
 
